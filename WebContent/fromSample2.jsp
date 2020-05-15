@@ -5,6 +5,7 @@
 <meta charset="UTF-8">
 <title>ユーザー登録もどき2</title>
 <!-- ponyopnyoponyo -->
+<!-- Mybonnyisovertheocean -->>
 </head>
 <body>
 <form action="/WorkShop/FormSampleServlet" method="post">
