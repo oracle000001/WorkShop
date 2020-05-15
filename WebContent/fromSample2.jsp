@@ -4,7 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <title>ユーザー登録もどき2</title>
-<!-- Mybonnyisovertheocean -->>
+<!-- ponyopnyoponyo -->
+<!-- Mybonnyisovertheocean -->
 </head>
 <body>
 <form action="/WorkShop/FormSampleServlet" method="post">
