@@ -17,7 +17,7 @@ public class FormSampleServlet extends HttpServlet {
       HttpServletResponse response)
       throws ServletException, IOException {
 
-    // リクエストパラメータを取得取得
+    // リクエストパラメータを取得取得取得
     request.setCharacterEncoding("UTF-8");
     String name = request.getParameter("name");
     String gender = request.getParameter("gender");
