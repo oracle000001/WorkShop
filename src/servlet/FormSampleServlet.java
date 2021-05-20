@@ -58,6 +58,5 @@ public class FormSampleServlet extends HttpServlet {
     out.println("</body>");
     out.println("</html>");
 
-    //az02
-  }
+    //az03
 }
